@@ -53,10 +53,10 @@ const Login = () => {
           color='primary'
           onClick={signIn}
         >
-          Login with google
+          google Sign In
         </Button>
         <Button variant='contained' color='primary' onClick={signInAnonymous}>
-          Login Anonymous
+          Anonymous Sign In
         </Button>
       </div>
     </div>

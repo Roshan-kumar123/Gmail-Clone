@@ -47,7 +47,7 @@ const Header = () => {
         </IconButton>
         <Avatar className={'avatar'} src={user?.photoUrl} />
         <Button variant='outlined' color='secondary' onClick={signOut}>
-          Logout
+          Sign out
         </Button>
       </div>
     </div>
