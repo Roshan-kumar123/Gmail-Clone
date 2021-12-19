@@ -1,6 +1,6 @@
 # React Gmail Clone
 
-This is server less clone of the Gmail mail client that's powered by React.js at it's front-end and utilizes firebase for supporting the serverless/backend functionality for the app.
+This is a serverless clone of the Gmail mail client that's powered by React.js at it's front-end and utilizes firebase for supporting the serverless/backend functionality for the app.
 
 It allows users to send mails and provides an authenticated google based login and also an anonymous login for the testing purposes.
 
@@ -8,7 +8,7 @@ It allows users to send mails and provides an authenticated google based login a
 
 https://mail-clone-react.web.app
 
-This project using all of the fundamentals of React and ...
+## This project utilizes all of the fundamentals of React and ...
 
 - React router
 - Redux
